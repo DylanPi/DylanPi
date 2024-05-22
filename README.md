@@ -1,5 +1,5 @@
 ### Hi there 👋
-nice to see you guys, im a college students for my doctor degree in Zhejiang University.
+nice to see you guys, I'm a college students for my doctor degree in Zhejiang University.
 - 🔭 I’m currently working on electric system for neuro recording and stimulation, which would be useful in the field of brain science.
 - 📫 How to reach me: dylan_pi@qq.com
 <!--
